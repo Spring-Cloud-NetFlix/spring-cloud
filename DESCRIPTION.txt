@@ -1,0 +1,5 @@
+О чем:
+Демонстрация работающей hystrix и Turbine
+
+Article
+https://stackoverflow.com/questions/49792290/unable-to-connect-to-command-metric-stream-for-hystrix-dashboard-with-spring-clo
